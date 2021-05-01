@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["SignalServers",""]],"struct":[["Credentials",""],["ServiceConfiguration",""]],"type":[["SignalingKey",""]]});

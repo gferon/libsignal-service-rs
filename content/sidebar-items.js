@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["AttachmentPointerFlags",""],["ContentBody",""],["DataMessageFlags",""],["GroupType",""]],"mod":[["sync_message",""]],"struct":[["AttachmentPointer",""],["CallMessage",""],["Content",""],["DataMessage",""],["GroupContext",""],["Metadata",""],["Reaction",""],["ReceiptMessage",""],["SyncMessage",""],["TypingMessage",""]]});

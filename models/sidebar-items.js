@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["Attachment","Attachment represents an attachment received from a peer"],["Group","Group holds group metadata"],["Message","Message represents a message received from the peer."]]});
